@@ -58,6 +58,12 @@ Integration of additional data sources (HR, network traffic, communications).
 Advanced explainability (granular, human-readable insights).
 Feedback loop with analysts for continuous refinement.
 Semi-supervised learning if labeled anomaly data becomes available.
+
+## Dataset
+The dataset used in this project is the CERT Insider Threat Dataset.
+You can access it here:
+https://drive.google.com/drive/folders/1nYcliXINlP5zWNkzIA7bB-mwH5THjWaw?usp=sharing
+
 🛠️ How to Run
 # Clone the repository
 git clone https://github.com/yourusername/your-capstone-project.git
