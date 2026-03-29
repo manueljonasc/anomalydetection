@@ -1,2 +1,0 @@
-# anomalydetection
-AIM Capstone Project
